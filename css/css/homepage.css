@@ -77,3 +77,9 @@ a:hover
 {
     color: saddlebrown;
 }
+
+#modal
+{
+    padding:10px;
+    margin:10px;
+}

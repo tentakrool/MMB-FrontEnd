@@ -50,8 +50,30 @@ a:hover
     color: saddlebrown;
 }
 
+.wrapper 
+{
+    display: flex;
+    align-items: stretch;
+}  
+
+#sidebar 
+{
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 100vh;
+    background-color: darkgrey;
+    padding: 20px;
+    
+}
+
+#sidenav
+{
+    padding:15px;
+}
+
 #box
 {
     padding: 20px;
     margin: 20px;
 }
+
