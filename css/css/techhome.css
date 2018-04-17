@@ -1,11 +1,28 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    color: #31201A;
+}
+
 p
 {
-    color:#555555;
+    color:#31201A;
 }
 
 .logobar
 {
     margin: 0px;
+    background-color: #EEE2DD;
+}
+
+.brown
+{
+    background-color: #F6F1EE;
+    padding: 15px;
+    margin: 15px;
+    padding-top: 20px;
+    border-radius: 25px;
+    color: #BF8E7B;
 }
 
 .jumbotron
@@ -24,7 +41,7 @@ ul {
 
 footer
 {
-    background: #f0f0f0;
+    background-color: #EEE2DD;
     padding: 50px;
 }
 
@@ -47,11 +64,5 @@ a
 
 a:hover
 {
-    color: saddlebrown;
-}
-
-#box
-{
-    padding: 20px;
-    margin: 20px;
+    color: #C53800;
 }
